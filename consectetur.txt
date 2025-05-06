@@ -1,0 +1,3 @@
+/* Snippet A – ~30 words */
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta.
+
